@@ -61,13 +61,16 @@ System upgrade is planned to enable full SOC workflows including log ingestion, 
 
 ## 🎓 Certifications
 
-- CompTIA Security+ (In progress)
-- Qualys VMDR(Vulnerability Management Detection and Response)
-- Qualys CSAM(Cybersecurity Asset Management)
+### Completed
 - ISC2 Certified in Cybersecurity (CC)
+- Qualys VMDR(Vulnerability Management Detection and Response)
+- Qualys CSAM(Cybersecurity Asset Management
 - Fortinet Cybersecurity Fundamentals
-- Fortinet Associate
+- Fortinet Cybersecurity Associate
 
+### In Progress
+- CompTIA Security+
+- Cisco Certified Network Associate(CCNA)
 ---
 
 ## 📌 Status
